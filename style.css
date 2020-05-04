@@ -369,7 +369,7 @@ a img.aligncenter {
 
 .main-banner::after {
     content: " ";
-    position: relative;
+    position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
