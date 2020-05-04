@@ -358,7 +358,7 @@ a img.aligncenter {
 
 .main-banner{
 	height: 100%;
-	position: absolute;
+	position: relative;
 }
 
 .main-banner{
